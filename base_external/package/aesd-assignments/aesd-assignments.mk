@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = '34d1b48d7d96ac57b57dc0d2d841a9369ff404ec'
+AESD_ASSIGNMENTS_VERSION = 'b2c76a5922699b7a85bdac9c0cefcce7935141b5'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-emlinuxst.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
